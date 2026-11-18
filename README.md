@@ -4,12 +4,10 @@
 
 ---
 
-<details>
-<summary><b>📢 공고 (Notice) - 클릭하여 확인</b></summary>
-<br>
+## 공고 (Notice)
 
-**Under Construction**
+### Under Construction
 
-문의 : aceogolfcxc@gmail.com
-
-</details>
+* **문의 :** aceogolfcxc@gmail.com
+* **상호 :** 주식회사 알파골프컴퍼니
+* **본점주소 :** 경기도 남양주시 다산순환로 20, 에이씨동 비1-0056gh(다산동)
